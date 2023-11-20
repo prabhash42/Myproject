@@ -41,4 +41,6 @@ Here is an example of the full communication loop in action. The process involve
 
 **UML Sequence Diagram**
 
-UML sequence diagram here that visually represents the request-reply pattern between the client (partnerProject.py) and the microservice (songMicro.py).
+UML sequence diagram here that visually represents the request-reply pattern between the client and the microservice.
+![11](https://github.com/prabhash42/Myproject/assets/114190627/39fb6c92-52e5-4a45-8fe2-5f451e513e38)
+
